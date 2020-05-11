@@ -1,0 +1,13 @@
+{
+  "name": "teste-keyrus",
+  "version": "1.0.0",
+  "description": "",
+  "author": "LeonardoPacheco",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-clean-css": "^4.3.0"
+  }
+}
